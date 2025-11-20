@@ -26,11 +26,10 @@ I am an **research scientist**, specializing in **3D Point Cloud Processing**, *
 </p>
 
 ### 📊 GitHub Stats
-
 <p align="left">
 <a href="https://github.com/PointCloudYC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PointCloudYC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PointCloudYC&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PointCloudYC&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PointCloudYC&layout=compact&theme=radical&cache_seconds=1800"/>
 </a>
 </p>
 
