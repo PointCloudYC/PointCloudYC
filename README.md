@@ -9,8 +9,8 @@ I am an **research scientist**, specializing in **3D Point Cloud Processing**, *
 - 🔭 I’m currently working on **Weakly-supervised 3D Segmentation**, **Long-tailed Learning**, and **Multi-modal 2D/3D LLMs** (LLaVA, LISA).
 - ⚙️ I use daily: `.py` (PyTorch, OpenMMLab, PointCept), `.sh` (Linux, Docker, HPC), `.tex` (LaTeX).
 - 🌍 I'm active within the **3D Vision & Remote Sensing Community** and advocate for open science.
-- 📦 **Open Source**: I maintain **6+ influential repositories** (e.g., `ResPointNet++`, `Deep-Learning-On-Point-Clouds`) with **140+ stars**.
-- 🏆 **Highlights**: **3 First-author Q1 papers(IF>=10)**, **ICCBEI 2019 Best Paper Award**, and PI of **680K RMB** in research funding.
+- 📦 **Open Source**: I maintain **6+ repositories** (e.g., `ResPointNet++`, `Deep-Learning-On-Point-Clouds`) with **140+ stars**.
+- 🏆 **Highlights**: **3 First-author Q1 papers(IF>=10)**, **ICCBEI 2019 Best Paper Award**.
 
 ---
 
