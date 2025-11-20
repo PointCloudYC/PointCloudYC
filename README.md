@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Dr. Chao YIN
 
-#### 🔬 Research Scientist | 💻 3D Vision Engineer | 🤖 Foundation Model Practitioner
+#### 🔬 Research Scientist | 💻 3D Vision Explorer | 🤖 Foundation Model Practitioner
 
-I am an **Associate Researcher** at the **Guangdong Academy of Sciences**, specializing in **3D Point Cloud Processing**, **Multi-modal Learning**, and **Geospatial Intelligence**.
-
-Unlike traditional researchers, I possess a **deep Computer Science background**, writing production-grade code to bridge the gap between theoretical algorithms and real-world applications. I am a pioneer in **AI-augmented research methodologies**, leveraging LLMs to optimize scientific discovery.
+I am an **research scientist**, specializing in **3D Point Cloud Processing**, **3D BIM Modeling**, **Multi-modal Learning**, and **Geospatial Intelligence**.
 
 ---
 
@@ -12,7 +10,7 @@ Unlike traditional researchers, I possess a **deep Computer Science background**
 - ⚙️ I use daily: `.py` (PyTorch, OpenMMLab, PointCept), `.sh` (Linux, Docker, HPC), `.tex` (LaTeX).
 - 🌍 I'm active within the **3D Vision & Remote Sensing Community** and advocate for open science.
 - 📦 **Open Source**: I maintain **6+ influential repositories** (e.g., `ResPointNet++`, `Deep-Learning-On-Point-Clouds`) with **140+ stars**.
-- 🏆 **Highlights**: **3 First-author Q1 papers**, **ICCBEI 2019 Best Paper Award**, and PI of **680K RMB** in research funding.
+- 🏆 **Highlights**: **3 First-author Q1 papers(IF>=10)**, **ICCBEI 2019 Best Paper Award**, and PI of **680K RMB** in research funding.
 
 ---
 
