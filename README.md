@@ -10,7 +10,6 @@ I am an **research scientist**, specializing in **3D Point Cloud Processing**, *
 - ⚙️ I use daily: `.py` (PyTorch, OpenMMLab, PointCept), `.sh` (Linux, Docker, HPC), `.tex` (LaTeX).
 - 🌍 I'm active within the **3D Vision & Remote Sensing Community** and advocate for open science.
 - 📦 **Open Source**: I maintain **6+ repositories** (e.g., `ResPointNet++`, `Deep-Learning-On-Point-Clouds`) with **140+ stars**.
-- 🏆 **Highlights**: **3 First-author Q1 papers(IF>=10)**, **ICCBEI 2019 Best Paper Award**.
 
 ---
 
