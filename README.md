@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-💬 My name is Dr. Chao YIN, and I'm a research scientist specializing in 3D Vision and Geospatial Intelligence.
-💡 I work on 3D Point Cloud Processing, BIM Modeling, Multi-modal Learning, and Weakly, Self-supervised 3D Segmentation.
-📦 I maintain several open-source repositories, including ResPointNet++ and Deep-Learning-On-Point-Clouds.
-🌱 Contact me: cyinac@connect.ust.hk. Google Scholar: https://scholar.google.com/citations?user=MD3X7kwAAAAJ
+--------------------------------
+
+- 💬 My name is Dr. Chao YIN, and I'm a research scientist specializing in 3D Vision and Geospatial Intelligence.
+- 💡 I work on 3D Point Cloud Processing, BIM Modeling, Multi-modal Learning, and Weakly, Self-supervised 3D Segmentation.
+- 📦 I maintain several open-source repositories, including ResPointNet++ and Deep-Learning-On-Point-Clouds.
+- 🌱 Contact me: cyinac@connect.ust.hk. 
+- 🔗 Google Scholar: https://scholar.google.com/citations?user=MD3X7kwAAAAJ
 
 ### 📊 GitHub Stats
 <p align="left">
