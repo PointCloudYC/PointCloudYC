@@ -16,4 +16,4 @@ Research Scientist · **3D Point Clouds** | **LiDAR Scene Understanding** | **Sc
 
 ---
 
-📧 cyinac [at] connect.ust.hk · [Scholar](https://scholar.google.com/citations?user=MD3X7kwAAAAJ) · [ORCID](https://orcid.org/0000-0002-8656-1874) · WeChat: `ychaoonline`
+📧 cyinac [at] connect.ust.hk | [Google Scholar](https://scholar.google.com/citations?user=MD3X7kwAAAAJ) | [ORCID](https://orcid.org/0000-0002-8656-1874) | WeChat: `ychaoonline`
